@@ -1,0 +1,12 @@
+.container {
+  background-color: whitesmoke;
+  margin-top: 50px;
+}
+.page-header {
+  margin: 10px;
+}
+
+.img-thumbnail {
+  float: left;
+  margin-right: 5px;
+}

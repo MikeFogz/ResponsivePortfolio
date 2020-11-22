@@ -13,6 +13,10 @@
   margin: 5px;
 }
 
+.description-text {
+  margin: 0px 0px 0px 15px;
+}
+
 .img-thumbnail {
   float: left;
   margin-right: 10px;

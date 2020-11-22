@@ -7,3 +7,16 @@ Homework Assignment #2: Groundwork for my portfolio
 This will be an ongoing project as I learn and develop my web dev skills.
 
 My aim for this Responsive Portfolio is to showcase my coding ability and growth during this bootcamp. I hope that as I learn, develop, and gain a firm grasp on both the front end and back end of web dev that this portfolio will reflect that.
+
+## Technology Used
+
+- HTML
+- CSS
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Author
+
+Mike Fogarty - mikefogz@gmail.com
